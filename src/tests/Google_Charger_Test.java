@@ -14,7 +14,7 @@ public class Google_Charger_Test {
 	
 	@BeforeMethod
 	public void setUp() {
-		System.setProperty("webdriver.chrome.driver", "C:\\selenium dependencies\\driver\\chromedriver.exe");
+		System.setProperty("webdriver.chrome.driver", "C:\\selenium_dependencies\\driver\\chromedriver.exe");
 		driver = new ChromeDriver();
 		driver.get("http://google.com/");
 		

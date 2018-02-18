@@ -1,0 +1,1 @@
+java -cp "C:\Users\JURAT\git_demo\Selenium Demo\bin";C:\selenium_dependencies\library\libs\*;C:\selenium_dependencies\library\*;C:\eclipse\plugins\* org.testng.TestNG testng.xml
